@@ -32,7 +32,7 @@ namespace IterationStatements
 
 
         //Write a method that will print to the console numbers 3 through 999 by 3 each time
-        static void incroment()
+        static void Incroment()
         {
             
             for(int num = 3; num <= 999; num += 3)
@@ -128,7 +128,7 @@ namespace IterationStatements
         }
         
         //Write a method to display the multiplication table(from 1 to 12) of a given integer
-        static void multiply(int num)
+        static void Multiply(int num)
         {
             for (int i = 1; i <= 10; i++)
             {
