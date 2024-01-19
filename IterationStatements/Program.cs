@@ -139,15 +139,15 @@ namespace IterationStatements
         //Call the methods to test them in the Main method below
         static void Main(string[] args)
         {
-            //incroment();
-            //LongNumber();
+            Incroment();
+            LongNumber();
 
-            // IsEqual(1, 2);
-            //  EvenOrOdd(3);
-            //CanVote();
+             IsEqual(1, 2);
+              EvenOrOdd(3);
+            CanVote();
 
 
-            //multiply(9);
+            Multiply(9);
         }
 
     }
